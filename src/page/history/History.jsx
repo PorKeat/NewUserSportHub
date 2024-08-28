@@ -137,7 +137,7 @@ export default function History() {
                     data-aos="zoom-in"
                     className="text-center text-4xl text-gray-900 font-bold mb-8 hover:text-[#172554]"
                   >
-                    ប្រវត្តិនៃកីឡាបាល់បាត់
+                    ប្រវត្តិនៃកីឡាបាល់ទាត់
                   </h1>
                   <div
                     data-aos="fade-up"
